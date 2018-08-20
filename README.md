@@ -22,16 +22,14 @@ Plus also gives resources to get started.
 
 ![Image 2](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/1.png?raw=true)
 
-![Image 3](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/3.png?raw=true)
+![Image 3](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/4.png?raw=true)
 
-![Image 4](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/4.png?raw=true)
+![Image 4](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/5.png?raw=true)
 
-![Image 5](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/5.png?raw=true)
+![Image 5](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/6.png?raw=true)
 
-![Image 6](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/6.png?raw=true)
+![Image 6](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/7.png?raw=true)
 
-![Image 7](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/7.png?raw=true)
+![Image 7](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/8.png?raw=true)
 
-![Image 8](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/8.png?raw=true)
-
-![Image 9](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/9.png?raw=true)
+![Image 8](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/646bf7ba365e541f5570ef1cb583e5b829eff029/9.png?raw=true)
