@@ -12,6 +12,9 @@ We developed a sloution which emphasizes on lowering the gap between the current
 also we also tried to mentor the students in a proper way by connecting them to several mentors, who can help them to choose the right career path which will help them not to fall in peer pressure that this guy is taking that course then I will also take that course.
 Plus also gives resources to get started.
 
+
+# We have done all the designing using ADOBE XD
+
 # These are the images of designes of User Personas.
 ![Person1](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/d321835743028c0c45598674d402aac49fac2b32/Persona1.png?raw=true)
 ![Persona2](https://github.com/thedevelopersanjeev/ESYAIIITD/blob/d321835743028c0c45598674d402aac49fac2b32/Persona2.png?raw=true)
